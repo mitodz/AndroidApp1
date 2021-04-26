@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя программа</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="edtTxtName">Имя</string>
+    <string name="edtTxtEmail">Email</string>
+    <string name="edtTxtPass">Пароль</string>
+    <string name="edtTxtPass2">Повторите пароль</string>
+    <string name="txtViewGender">Пол</string>
+    <string name="rbGenderM">Мужский</string>
+    <string name="rbGenderF">Женский</string>
+    <string name="rbGenderO">Другой</string>
+    <string name="txtViewCountry">Страна</string>
+    <string name="spRussia">Россия</string>
+    <string name="spUsa">США</string>
+    <string name="spGermany">Германия</string>
+    <string name="chbConsent">Я согласен</string>
+    <string name="txtViewAgreement">Это наше лицензионное соглашение: Вы можете делиться данным приложением с кем пожелаете и использоваться его так, как захотите. Просто не забывайте наслаждаться</string>
+    <string name="btnPickImage">Выбрать изображение</string>
+</resources>

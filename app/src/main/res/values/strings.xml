@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_register" >register</string>
+    <string name="edtTxtName">Name</string>
+    <string name="edtTxtEmail">Email</string>
+    <string name="edtTxtPass">Password</string>
+    <string name="edtTxtPass2">Re-Enter Password</string>
+    <string name="txtViewGender">Gender</string>
+    <string name="rbGenderM">Male</string>
+    <string name="rbGenderF">Female</string>
+    <string name="rbGenderO">Other</string>
+    <string name="txtViewCountry">Country</string>
+    <string name="spRussia">Russia</string>
+    <string name="spUsa">USA</string>
+    <string name="spGermany">Germany</string>
+    <string name="chbConsent">I Agree</string>
+    <string name="txtViewAgreement">These is our licence agreement: You can share this app anythere that you want and use it however you want. Just remember to enjoy</string>
+    <string name="btnPickImage">Pick Image</string>
+</resources>
